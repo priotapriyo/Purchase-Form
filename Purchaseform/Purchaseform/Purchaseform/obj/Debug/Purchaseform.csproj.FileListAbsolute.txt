@@ -1,0 +1,11 @@
+C:\Users\frien\source\repos\Purchaseform\Purchaseform\obj\Debug\Purchaseform.csproj.AssemblyReference.cache
+C:\Users\frien\source\repos\Purchaseform\Purchaseform\obj\Debug\Purchaseform.Form1.resources
+C:\Users\frien\source\repos\Purchaseform\Purchaseform\obj\Debug\Purchaseform.Properties.Resources.resources
+C:\Users\frien\source\repos\Purchaseform\Purchaseform\obj\Debug\Purchaseform.Purchase.resources
+C:\Users\frien\source\repos\Purchaseform\Purchaseform\obj\Debug\Purchaseform.csproj.GenerateResource.cache
+C:\Users\frien\source\repos\Purchaseform\Purchaseform\obj\Debug\Purchaseform.csproj.CoreCompileInputs.cache
+C:\Users\frien\source\repos\Purchaseform\Purchaseform\bin\Debug\Purchaseform.exe.config
+C:\Users\frien\source\repos\Purchaseform\Purchaseform\bin\Debug\Purchaseform.exe
+C:\Users\frien\source\repos\Purchaseform\Purchaseform\bin\Debug\Purchaseform.pdb
+C:\Users\frien\source\repos\Purchaseform\Purchaseform\obj\Debug\Purchaseform.exe
+C:\Users\frien\source\repos\Purchaseform\Purchaseform\obj\Debug\Purchaseform.pdb
